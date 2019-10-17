@@ -2,4 +2,4 @@
 first_number = 10
 second_number = 2
 sum = 10 + 2
-diffrence = first_number - second_number
+difference = first_number - second_number
